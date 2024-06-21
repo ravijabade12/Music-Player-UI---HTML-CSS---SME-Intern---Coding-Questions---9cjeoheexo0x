@@ -1,0 +1,14 @@
+.pause-btn::before {
+  content: "||";
+  color: #fff;
+}
+
+.prev-btn::before {
+  content: "<<";
+  color: #fff;
+}
+
+.next-btn::before {
+  content: ">>";
+  color: #fff;
+}
